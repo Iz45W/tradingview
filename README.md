@@ -1,1 +1,1 @@
-# tradingview
+# TradingView PREMIUM
