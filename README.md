@@ -1,4 +1,4 @@
-# TradingView PREMIUM
+# TradingView PREMIUM 🌈
 
 # 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://shorturl.at/jmL12)
 
