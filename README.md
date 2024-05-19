@@ -4,6 +4,6 @@
 
 ## TradingView is the most popular platform that allows you to set alerts when a price reaches indicated level, indicator crosses, and much more.
 
-![fxf](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8rpiwsRkf378BwEMhoNNBg.gif)
+![fxf](https://i.ibb.co/KG99x3Y/0-u5-PIg-L3-Frw-Iq-G47a.png)
 
 ## Last update 15/5/2024 🚀
